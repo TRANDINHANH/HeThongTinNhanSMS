@@ -1,0 +1,13 @@
+C:\Users\anhtr\source\repos\HeThongTinNhanSMS\HeThongTinNhanSMS\bin\Debug\HeThongTinNhanSMS.exe.config
+C:\Users\anhtr\source\repos\HeThongTinNhanSMS\HeThongTinNhanSMS\bin\Debug\HeThongTinNhanSMS.exe
+C:\Users\anhtr\source\repos\HeThongTinNhanSMS\HeThongTinNhanSMS\bin\Debug\HeThongTinNhanSMS.pdb
+C:\Users\anhtr\source\repos\HeThongTinNhanSMS\HeThongTinNhanSMS\obj\Debug\HeThongTinNhanSMS.csproj.AssemblyReference.cache
+C:\Users\anhtr\source\repos\HeThongTinNhanSMS\HeThongTinNhanSMS\obj\Debug\HeThongTinNhanSMS.csproj.SuggestedBindingRedirects.cache
+C:\Users\anhtr\source\repos\HeThongTinNhanSMS\HeThongTinNhanSMS\obj\Debug\HeThongTinNhanSMS.MainFrom.resources
+C:\Users\anhtr\source\repos\HeThongTinNhanSMS\HeThongTinNhanSMS\obj\Debug\HeThongTinNhanSMS.Properties.Resources.resources
+C:\Users\anhtr\source\repos\HeThongTinNhanSMS\HeThongTinNhanSMS\obj\Debug\HeThongTinNhanSMS.csproj.GenerateResource.cache
+C:\Users\anhtr\source\repos\HeThongTinNhanSMS\HeThongTinNhanSMS\obj\Debug\HeThongTinNhanSMS.csproj.CoreCompileInputs.cache
+C:\Users\anhtr\source\repos\HeThongTinNhanSMS\HeThongTinNhanSMS\obj\Debug\HeThongTinNhanSMS.exe
+C:\Users\anhtr\source\repos\HeThongTinNhanSMS\HeThongTinNhanSMS\obj\Debug\HeThongTinNhanSMS.pdb
+C:\Users\anhtr\source\repos\HeThongTinNhanSMS\HeThongTinNhanSMS\obj\Debug\HeThongTinNhanSMS.Froms.GuiTinNhanForm.resources
+C:\Users\anhtr\source\repos\HeThongTinNhanSMS\HeThongTinNhanSMS\obj\Debug\HeThongTinNhanSMS.Froms.PhanNhomForm.resources
